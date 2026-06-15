@@ -1,23 +1,3 @@
-# Python Learning Journey
-
-Hi, I'm Aditya.
-
-I am a Engineering student learning Python and working toward Software Engineering placements.
-
-This repository contains my Python practice programs and mini-projects.
-
-## Topics Covered
-- [✅] Modules, Comments & PIP
-- [✅] Variables and Datatype
-- [✅] Operators
-- [✅] Strings
-- [✅] Lists & Tuples
-- [✅] Dictionary & Sets
-- [✅] Conditional Expressions
-
-
-
-
 <div align="center">
 
 # 🐍 Python Learning Journey
@@ -45,6 +25,15 @@ This repository documents my **Python learning progress** from basics to advance
 - 📈 Consistent daily improvement  
 
 ---
+
+## 📚 Topics Covered
+- [✅] Modules, Comments & PIP
+- [✅] Variables and Datatype
+- [✅] Operators
+- [✅] Strings
+- [✅] Lists & Tuples
+- [✅] Dictionary & Sets
+- [✅] Conditional Expressions
 
 ## 🧭 Roadmap
 
