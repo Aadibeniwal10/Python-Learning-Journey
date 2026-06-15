@@ -1,28 +1,53 @@
 <div align="center">
 
-# 🐍 Python Learning Journey
+# 🐍 Python Codes
 
 <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-DSA%20%2B%20Projects-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Practice-Daily%20Coding-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-brightgreen?style=for-the-badge"/>
 
 <br><br>
 
-> *“Small steps every day → strong foundations forever.”*
+✨ A personal collection of Python programs built during my learning journey ✨
 
 </div>
 
 ---
 
-## ✨ Overview
+## 📌 About This Repository
 
-This repository documents my **Python learning progress** from basics to advanced topics, including:
+This repository contains all my Python practice codes written while learning and improving my programming skills.
 
-- 📘 Concept building  
-- 💡 Problem solving  
-- 🧠 DSA practice  
-- 🛠️ Mini projects  
-- 📈 Consistent daily improvement  
+It acts as a **daily coding notebook** where I explore concepts, test logic, and strengthen fundamentals.
+
+---
+
+## 📂 What’s Inside
+
+- 🔤 Basic Python programs  
+- 🔁 Loops and conditionals practice  
+- 🧠 Functions and logic building  
+- 📦 Data structures (list, tuple, dict, set)  
+- 🧩 Problem-solving exercises  
+- 🚀 Small experimental programs  
+
+---
+
+## 🎯 Purpose
+
+- Build strong programming fundamentals  
+- Improve logical thinking  
+- Practice coding consistently  
+- Prepare for DSA and interviews  
+
+---
+
+## 📈 Learning Style
+
+- 🟢 Learn concept  
+- 🧪 Practice code  
+- 🔁 Repeat & improve  
+- 🚀 Build confidence step by step  
 
 ---
 
@@ -35,21 +60,27 @@ This repository documents my **Python learning progress** from basics to advance
 - [✅] Dictionary & Sets
 - [✅] Conditional Expressions
 
-## 🧭 Roadmap
+---
 
-```text
-START
-  ↓
-Python Basics
-  ↓
-Control Flow (if/loops)
-  ↓
-Data Structures
-  ↓
-Functions & OOP
-  ↓
-Problem Solving (LeetCode)
-  ↓
-Mini Projects
-  ↓
-DSA Mastery 🚀
+## 📅 Progress
+
+- 🚀 Started: *[16/06/2026]*  
+- 📌 Status: Active Learning  
+- 🔥 Focus: Consistency + Problem Solving  
+
+---
+
+## 🤝 Note
+
+This is not just a code collection —  
+it is a **record of my growth as a programmer**.
+
+---
+
+<div align="center">
+
+⭐ *If you like this journey, feel free to star the repo* ⭐  
+
+🚀 Keep coding. Keep improving. 🐍
+
+</div>
