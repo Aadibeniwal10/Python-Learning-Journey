@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Python Codes
+# 🐍 Python Learning Journey
 
 <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Practice-Daily%20Coding-orange?style=for-the-badge"/>
