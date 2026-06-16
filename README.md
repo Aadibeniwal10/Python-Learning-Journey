@@ -59,6 +59,7 @@ It acts as a **daily coding notebook** where I explore concepts, test logic, and
 - [✅] Dictionary & Sets
 - [✅] Conditional Expressions
 - [✅] Loops
+- [✅] Function and Recursions
 
 ---
 
