@@ -67,6 +67,8 @@ while(i<45):
     print(i)
     i += 1
 
+----
+
 # Problems
 ##!
 n = int(input("Enter a number: "))
