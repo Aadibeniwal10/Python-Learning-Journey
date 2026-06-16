@@ -54,7 +54,6 @@ It acts as a **daily coding notebook** where I explore concepts, test logic, and
 ## 📚 Topics Covered
 - [✅] Modules, Comments & PIP
 - [✅] Variables and Datatype
-- [✅] Operators
 - [✅] Strings
 - [✅] Lists & Tuples
 - [✅] Dictionary & Sets
